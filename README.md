@@ -6,7 +6,7 @@
 ----
     Crawl.py是一个多线程爬取电影天堂资源的Python爬虫
     [代码](https://github.com/Just4Learning/Code-from-Internet/blob/master/Crawl.py "悬停显示")
-    [代码](（https://github.com/Just4Learning/Code-from-Internet/blob/master/Crawl.py)
+    [代码](https://github.com/Just4Learning/Code-from-Internet/blob/master/Crawl.py)
     
     [This link](http://example.net/) has no title attribute
     
