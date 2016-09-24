@@ -8,3 +8,5 @@
     [代码](https://github.com/Just4Learning/Code-from-Internet/blob/master/Crawl.py "悬停显示")
     [代码](（https://github.com/Just4Learning/Code-from-Internet/blob/master/Crawl.py)
     
+    [This link](http://example.net/) has no title attribute
+    
