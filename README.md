@@ -4,6 +4,7 @@
 
 代码：
 ----
-    Crawl.py是一个多线程爬取电影天堂资源的Python爬虫(https://github.com/Just4Learning/Code-from-Internet/blob/master/Crawl.py)
+Crawl.py是一个多线程爬取电影天堂资源的Python爬虫[Crawl.py](https://github.com/Just4Learning/Code-from-Internet/blob/master/Crawl.py)<br />
+
     
     
